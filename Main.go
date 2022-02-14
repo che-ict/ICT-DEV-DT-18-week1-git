@@ -14,4 +14,6 @@ func main() {
 	fmt.Println()
 
 	// geeft alle oneven getallen weer tot 100
+
+	// todo: implementeer functie die alle oneven getallen naar de std output print
 }
